@@ -1,0 +1,2 @@
+# HDFC Risk prediction contest(on hackeerearth)
+This is an interesting contest, where there are `~2500` unknown feature. During this contest, i developed/implemented some feature engineering technique.
